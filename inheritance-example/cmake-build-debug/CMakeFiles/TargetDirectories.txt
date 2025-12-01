@@ -1,0 +1,3 @@
+/Users/danishkhan/CLionProjects/inheritance-example/cmake-build-debug/CMakeFiles/inheritance_example.dir
+/Users/danishkhan/CLionProjects/inheritance-example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danishkhan/CLionProjects/inheritance-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
